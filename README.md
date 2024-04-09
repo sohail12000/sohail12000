@@ -15,4 +15,4 @@ me = SoftwareEngineer()
 me.say_hi()
 
 ```
-<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/sohail12000/sohail12000/blob/main/1936.gif">
+<img hight="100" width="300"  alt="GIF" align="center" src="https://github.com/sohail12000/sohail12000/blob/main/200w.gif">
