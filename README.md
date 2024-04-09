@@ -1,9 +1,5 @@
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class SoftwareEngineer:
 
     def __init__(self):
@@ -17,4 +13,6 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+
 ```
+<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/sohail12000/sohail12000/blob/main/1936.gif">
